@@ -10,7 +10,10 @@ The primary objectives of this project are:
 
 Major Libraries used are
 cv2
-os
 
+If you are not using platforms like IDLE or Pycharm instead of Colab or Jupyter Notebook,
+To install cv2 
+
+pip install opencv-python
 
 
