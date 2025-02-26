@@ -8,7 +8,7 @@ The primary objectives of this project are:
 3) To provide a method for extracting the hidden information from the image.
 4) To analyze the effectiveness and limitations of the chosen technique in terms of security and robustness.
 
-Major Libraries used are
+Major Libraries used is
 cv2
 
 If you are not using platforms like IDLE or Pycharm instead of Colab or Jupyter Notebook,
